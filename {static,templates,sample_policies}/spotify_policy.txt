@@ -1,0 +1,93 @@
+Personal data that we need to create your Spotify account and that enables you to use the Spotify Service.
+The type of data collected and used depends on the type of Service Option you have. It also depends on how you create your account, the country you are in, and if you use third party services to sign in. This may include your:
+profile name
+email address
+password
+phone number
+date of birth
+gender
+street address (see further details below)
+country
+university/college (for Spotify Premium Student)
+We may ask for and process your street address for the following reasons:
+to check eligibility for a Service Option
+to deliver notices which are required by law
+to deliver support options
+for billing and tax administration
+to deliver physical goods or gifts which you have requested
+In some cases, we may use a third party application to help you verify your address, such as Google Maps.
+Personal data collected and processed about you when you’re accessing or using the Spotify Service.
+
+There are a few types of information this includes, listed in the following sections.
+Information about how you use Spotify
+Examples include:
+information about your Spotify Service Option
+your actions with the Spotify Service (including date and time), such as:
+search queries
+streaming history
+playlists you create
+your library
+browsing history
+account settings
+interactions with other Spotify users
+your use of third party services, devices and applications in connection with the Spotify Service
+inferences (i.e., our understanding) of your interests and preferences based on your usage of the Spotify Service
+content you provide when participating in Spotify promotions, such as contests or sweepstakes
+content you post to any part of the Spotify Service. For example: images, audio, text, titles, descriptions, communications, and other types of content
+Your technical data
+Examples include:
+URL information
+online identifiers such as cookie data and IP addresses
+information about the devices you use such as:
+device IDs
+network connection type (e.g. wifi, 4G, LTE, Bluetooth)
+provider
+network and device performance
+browser type
+language
+information enabling digital rights management
+operating system
+Spotify application version
+information which enables us to discover and connect with third party devices and applications. Examples of this information are the device name, device identifiers, brand and version. Examples of third party devices and applications are:
+devices on your wifi network (such as speakers) which can connect to the Spotify Service
+devices your operating system makes available when connecting via Bluetooth, plugin, and installation
+Spotify partner applications to determine whether the application is installed on your device
+Your general (non-precise) location
+Your general location includes country, region or state. We may learn this from technical data (e.g. your IP address, language setting of your device) or payment currency.
+We need this to:
+meet geographic requirements in our agreements with the owners of content on the Spotify Service
+deliver content and advertising that’s relevant to you
+Your device sensor data
+Motion-generated or orientation-generated device sensor data if needed to provide features of the Spotify Service that require this data. This is data which your device collects about the way you move or hold your device.
+Voice Data : If voice features are available in your market and where you’ve chosen to use a voice feature, we collect and process voice data. Voice data means audio recordings of your voice and transcripts of those recordings.
+For more information on how different voice features work, and how you can control and turn them off, see our Voice Control Policy.
+Payment and Purchase Data : If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data.
+The exact personal data collected and used will vary depending on the payment method. It will include information such as:
+name
+date of birth
+payment method type (e.g. credit or debit card)
+if using a debit or credit card, the card type, expiration date, and certain digits of your card number Note: For security, we never store your full card number
+ZIP/postal code
+mobile phone number
+details of your purchase and payment history
+This section sets out who receives personal data which is collected or generated through your use of the Spotify Service.
+
+Publicly available information
+The following personal data will always be publicly available on the Spotify Service (except to any user you have blocked):
+your profile name
+your profile photo
+your public playlists
+other content you post on the Spotify Service, and any associated titles, descriptions and images
+who you follow on the Spotify Service
+who follows you on the Spotify Service
+You or another user can share certain information on third party services, like social media or messaging platforms. This includes:
+your profile
+any content you post on Spotify and details about that content
+your playlists and any associated titles, descriptions and images
+When this sharing occurs, the third party service may store a copy of it to support their features.
+Pernonal data you may choose to share
+We will only share the following personal data with those outlined in the table below:
+where you have chosen to use a Spotify Service feature, or a third party application, service or device, and we need to share personal data to enable this, or
+if you otherwise grant us your permission to share the personal data. For example, you can do it by selecting the appropriate setting in the Spotify Service or by giving your consent
+
+
