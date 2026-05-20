@@ -5,7 +5,7 @@ import re
 
 app = Flask(__name__)
 
-GROQ_API_KEY = "your_groq_api_key_here"
+GROQ_API_KEY = ""
 
 SYSTEM_PROMPT = """You are an expert contract analyst. Analyze the provided contract text and extract structured information. Return ONLY a valid JSON object with NO markdown, NO backticks, NO extra text.
 
